@@ -22,7 +22,7 @@
 
 <h2>Installation</h2>
 
-1. Download or copy the code in the main.c
+1. Download or copy the code in the IEEEConverter.c
 2. Import it in a C IDE or use an online source (https://www.onlinegdb.com/online_c_compiler#)
 3. Run the code
 
