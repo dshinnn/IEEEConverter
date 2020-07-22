@@ -12,7 +12,7 @@
 <ul>
   <li>Display a menu</li>
   <li>Loop under user selects exit</li>
-  <li>Convert conversion result to a decimal number or a hexidecimal representation of the Floating Point Notation conversion.</li>
+  <li>Convert input into a decimal number or a hexidecimal representation of the Floating Point Notation to a decimal number.</li>
 </ul>
 
 <h2>Key learnings</h2>
