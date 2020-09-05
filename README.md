@@ -26,6 +26,4 @@
 2. Import it in a C IDE or use an online source (https://www.onlinegdb.com/online_c_compiler#)
 3. Run the code
 
-<h2>Project status</h2>
-Completed
 
